@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Pedo Archons chamber",
+  title: "Hajime SPIN",
   description: "HI JOSDH ",
 };
 
